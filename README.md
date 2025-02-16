@@ -10,11 +10,11 @@
 
 <h3>📚Already Learned</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,sqlite,github,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,js,flask,sqlite,github,vscode,windows)](https://skillicons.dev)
 
 <h3>🎯 I code with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,github,windows,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,flask,sqlite,vscode,github,windows)](https://skillicons.dev)
 
 
 <h3>💬Connect with me</h3>
