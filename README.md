@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Ahmad Hassan</h1>
+<h1 align="center">👋 I'm Ahmad Hassan</h1>
 <p align="center">
-  🚀 Motivated Developer | 🎯 Python Fanatic | 🌍 Exploring Tech & Data Science
+  🚀 Software Developer | 🎯 Python Fanatic | 🌍 Researching Startups & Saas
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ## 📚 Skills I’ve Picked Up
 [![Languages](https://skillicons.dev/icons?i=c,py,html,css,js)](https://skillicons.dev)
-[![Frameworks & Tools](https://skillicons.dev/icons?i=flask,sqlite,github,vscode,windows)](https://skillicons.dev)
+[![Frameworks & Tools](https://skillicons.dev/icons?i=flask,bootstrap,sqlite,github,vscode,windows)](https://skillicons.dev)
 
 ---
 ## 🛠️ Tech I Use to Build Stuff
-[![Stack](https://skillicons.dev/icons?i=py,html,css,js,flask,sqlite,vscode,github,windows)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,html,css,bootstrap,js,flask,sqlite,vscode,github,windows)](https://skillicons.dev)
 
 ---
 ## 📊 GitHub Stats
@@ -47,16 +47,17 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmad--hassan" target="_blank">
-    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
+    <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" >
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmadhassan0er@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" />
+    <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" >
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/+92 3701972789" target="_blank">
-    <img alt="WhatsApp" src="https://skillicons.dev/icons?i=whatsapp" />
-  </a>
+  <a href="https://wa.me/+923701972789" target="_blank">
+  <img alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/WhatsApp.svg" width="24px" height="24px" />
+</a>
+
 </p>
 
 <br />
